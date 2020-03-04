@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+body {
+  color: #6713d2;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+.App {
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  grid-template-columns: auto;
+}
+.navigate {
+  height: 90vh;
+  background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+}
