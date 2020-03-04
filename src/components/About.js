@@ -4,7 +4,7 @@ import "../css/About.css";
 class About extends Component {
   render() {
     return (
-      <div className="about">
+      <div className="container about">
         <h1>About Us</h1>
         <p>
           Trident Solutions was incorporated in 2018 as an Information and
