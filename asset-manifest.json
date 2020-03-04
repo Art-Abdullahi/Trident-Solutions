@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Trident-Solutions/static/css/main.d04bd3cc.chunk.css",
+    "main.js": "/Trident-Solutions/static/js/main.372c3736.chunk.js",
+    "main.js.map": "/Trident-Solutions/static/js/main.372c3736.chunk.js.map",
+    "runtime-main.js": "/Trident-Solutions/static/js/runtime-main.67cad224.js",
+    "runtime-main.js.map": "/Trident-Solutions/static/js/runtime-main.67cad224.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Trident-Solutions/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bd45a936.chunk.js": "/Trident-Solutions/static/js/2.bd45a936.chunk.js",
+    "static/js/2.bd45a936.chunk.js.map": "/Trident-Solutions/static/js/2.bd45a936.chunk.js.map",
+    "index.html": "/Trident-Solutions/index.html",
+    "precache-manifest.99c88bcdd6063f4cf774fcbde826ef85.js": "/Trident-Solutions/precache-manifest.99c88bcdd6063f4cf774fcbde826ef85.js",
+    "service-worker.js": "/Trident-Solutions/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Trident-Solutions/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d04bd3cc.chunk.css.map": "/Trident-Solutions/static/css/main.d04bd3cc.chunk.css.map",
+    "static/js/2.bd45a936.chunk.js.LICENSE.txt": "/Trident-Solutions/static/js/2.bd45a936.chunk.js.LICENSE.txt",
+    "static/media/image2.svg": "/Trident-Solutions/static/media/image2.05797719.svg",
+    "static/media/img2.svg": "/Trident-Solutions/static/media/img2.d4089548.svg",
+    "static/media/img3.svg": "/Trident-Solutions/static/media/img3.74a81cfd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67cad224.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bd45a936.chunk.js",
+    "static/css/main.d04bd3cc.chunk.css",
+    "static/js/main.372c3736.chunk.js"
+  ]
+}
